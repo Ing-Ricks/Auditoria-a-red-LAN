@@ -15,7 +15,7 @@ Este repositorio contiene la metodología y el flujo de trabajo para realizar un
 * **Fing:** Escaneo rápido desde dispositivos móviles.
 
 ## 📊 Metodología
-![Diagrama de Auditoría](./docs/diagrama-auditoria.jpg)
+![Diagrama de Auditoría](./docs/Diagrama de flujo de Auditoria-LAN.png)
 
 ---
 *Nota: Este proyecto tiene fines estrictamente educativos y de seguridad personal.*

@@ -15,7 +15,11 @@ Este repositorio contiene la metodología y el flujo de trabajo para realizar un
 * **Fing:** Escaneo rápido desde dispositivos móviles.
 
 ## 📊 Metodología
-![Diagrama de Auditoría](./docs/Diagrama de flujo de Auditoria-LAN.png)
+<figure>
+  <figcaption>Figura 1: Diagrama de Flujo del Dispositivo IoT</figcaption>
+  <img src="Diagrama_Auditoria.png" alt="Diagrama de Flujo de una Auditoria LAN Domestica">
+  </figure>
+
 
 ---
 *Nota: Este proyecto tiene fines estrictamente educativos y de seguridad personal.*
